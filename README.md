@@ -1,6 +1,7 @@
 # IDB30102_GroupN_MobileApplicationSecurity
 
 ## Project Title
+Automated Static Security Assessment Framework for Android Mobile Applications
 
 
 ## Research Problem
