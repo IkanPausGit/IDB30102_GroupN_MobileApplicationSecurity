@@ -28,6 +28,18 @@ The dataset contains:
 - Androguard
 
 ## How to Run the Project
+Install the required libraries:
+```python
+pip install -r requirements.txt
+```
+Run the Python files:
+```python
+python Metadata.py
+```
+and
+```python
+python analysis.py
+```
 
 ## Output
 The project generates:
