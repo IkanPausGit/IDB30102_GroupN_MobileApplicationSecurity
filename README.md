@@ -25,8 +25,6 @@ The dataset contains:
 
 ## Tools Used
 - Python
-- MobSF
-- APKTool
 - Androguard
 
 ## How to Run the Project
