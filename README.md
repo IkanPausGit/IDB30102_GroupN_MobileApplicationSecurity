@@ -30,8 +30,18 @@ The dataset contains:
 ## How to Run the Project
 
 ## Output
+The project generates:
+
+- APK metadata (CSV)
+- SHA-256 file hash
+- Application and SDK information
+- Android component analysis
+- Permission analysis
+- Vulnerability report (CSV)
+- Security findings with severity levels
 
 ## Conclusion
 
+The APK Analysis Tool extracts metadata and performs basic static security analysis on Android applications. It identifies security-related information such as permissions, application components, SDK versions, and potential vulnerabilities, including dangerous permissions, debuggable applications, exported components, and backup settings. The generated reports provide a useful foundation for Android malware analysis, vulnerability assessment, and secure mobile application research.
 
 
